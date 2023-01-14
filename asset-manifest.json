@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/AnirudhVats975/beat-crm/static/css/main.f0cce099.css",
+    "main.js": "/AnirudhVats975/beat-crm/static/js/main.9b0d20f3.js",
+    "static/js/787.567e63fb.chunk.js": "/AnirudhVats975/beat-crm/static/js/787.567e63fb.chunk.js",
+    "static/media/Logo.svg": "/AnirudhVats975/beat-crm/static/media/Logo.f100fb1d93b85c9181d3f22b56e2f3a5.svg",
+    "static/media/logo.svg": "/AnirudhVats975/beat-crm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/setting.svg": "/AnirudhVats975/beat-crm/static/media/setting.f80a64f410e1ebadedf01244e82f3119.svg",
+    "static/media/chart-bar-square.svg": "/AnirudhVats975/beat-crm/static/media/chart-bar-square.3d38b14c2c3f5d1cff9793f645c7da40.svg",
+    "static/media/Filter.svg": "/AnirudhVats975/beat-crm/static/media/Filter.3d2f35fca62f6117423c334ec903ae38.svg",
+    "static/media/bell.svg": "/AnirudhVats975/beat-crm/static/media/bell.3a40ba56d48c420572892d101b36fb22.svg",
+    "static/media/home-2.svg": "/AnirudhVats975/beat-crm/static/media/home-2.f50d1d1162746df2269865036ea76976.svg",
+    "index.html": "/AnirudhVats975/beat-crm/index.html",
+    "static/media/shopping-cart.svg": "/AnirudhVats975/beat-crm/static/media/shopping-cart.a29882a16e895e45384c3641f2c2acb6.svg",
+    "static/media/more-vertical.svg": "/AnirudhVats975/beat-crm/static/media/more-vertical.4f75bcb65da193edcca98964a19de439.svg",
+    "static/media/Search.svg": "/AnirudhVats975/beat-crm/static/media/Search.173a721d502b6289c97762edeafd97db.svg",
+    "static/media/plus.svg": "/AnirudhVats975/beat-crm/static/media/plus.63774fffd6a9c74357662e46d42194e7.svg",
+    "static/media/checked.svg": "/AnirudhVats975/beat-crm/static/media/checked.dc24bd97f85d088ae74ba473e42f7dc4.svg",
+    "static/media/rightIcon.svg": "/AnirudhVats975/beat-crm/static/media/rightIcon.093da2a1e091c1a74887e446495d8816.svg",
+    "static/media/check.svg": "/AnirudhVats975/beat-crm/static/media/check.7d77c586460705aea2fdb79c31f24ecd.svg",
+    "main.f0cce099.css.map": "/AnirudhVats975/beat-crm/static/css/main.f0cce099.css.map",
+    "main.9b0d20f3.js.map": "/AnirudhVats975/beat-crm/static/js/main.9b0d20f3.js.map",
+    "787.567e63fb.chunk.js.map": "/AnirudhVats975/beat-crm/static/js/787.567e63fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0cce099.css",
+    "static/js/main.9b0d20f3.js"
+  ]
+}
